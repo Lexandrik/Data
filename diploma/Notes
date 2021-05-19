@@ -1,5 +1,0 @@
-class Lesson6SpiderMiddleware в middleware - что это?
-.enс виден, хотя ты говорил, что он может быть невидимым
-scrapy.cfg не был создан автоматически, я установила scrapyd-client с помощью
-pip install git+https://github.com/scrapy/scrapyd-client, но ничего не поменялось
-По какой-то неведомой мне причине создалась папка Images
